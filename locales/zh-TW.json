@@ -12,7 +12,7 @@
       ],
       "key": "!html",
       "selector": "a[aria-label='Pull requests you created']",
-      "replacement": "請求獲取"
+      "replacement": "pull request"
     }
   ],
 
@@ -203,7 +203,7 @@
     "upload files": "上傳檔案",
     "readme": "讀我檔案",
     "commits": "次提交",
-    "merge pull request": "合併獲取請求",
+    "merge pull request": "合併 pull request",
     "switch branches/tags": "切換分支/標籤",
     "default": "預設",
     "go to file": "檔案尋找",
@@ -233,7 +233,7 @@
     "__comments-compare": "Comparing changes",
     "comparing changes": "差異比對",
     "compare": "對比",
-    "choose two branches to see what’s changed or to start a new pull request. if you need to, you can also": "選擇兩個分支以比較差異或啟動新的獲取請求。如果需要，你也可以",
+    "choose two branches to see what’s changed or to start a new pull request. if you need to, you can also": "選擇兩個分支以比較差異或啟動新的 pull request。如果需要，你也可以",
     "compare across forks": "跨復刻比較",
 
     "__comments-issue": "Repository Issue",
